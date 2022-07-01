@@ -1,4 +1,4 @@
-# Until-Death-Calculator
+# Until Death Calculator (UDC)
 
 This Android app will calculate the amount of minutes you have left and how many you should have been dead. 
 
